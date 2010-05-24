@@ -1,0 +1,482 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CarPartsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 777}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 330}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 992}}";
+			sepNavSelRange = "{451, 0}";
+			sepNavVisRange = "{85, 345}";
+			sepNavWindowFrame = "{{86, -254}, {1230, 820}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CarParts */ = {
+		activeExec = 0;
+		executables = (
+			2C6C54C811AA18FE003D9C40 /* CarParts */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2C6C54C811AA18FE003D9C40 /* CarParts */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CarParts */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CarParts */,
+		);
+		breakpoints = (
+			2C6C550211AA45F8003D9C40 /* Car.m:21 */,
+		);
+		codeSenseManager = 2C6C54D211AA191D003D9C40 /* Code sense */;
+		executables = (
+			2C6C54C811AA18FE003D9C40 /* CarParts */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					805,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296373541;
+			PBXWorkspaceStateSaveDate = 296373541;
+		};
+		perUserProjectItems = {
+			2C6C550611AA460C003D9C40 /* PBXTextBookmark */ = 2C6C550611AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C550711AA460C003D9C40 /* PBXTextBookmark */ = 2C6C550711AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551011AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551011AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551111AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551111AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551211AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551211AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551311AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551311AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551511AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551511AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551711AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551711AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551D11AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551D11AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551E11AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551E11AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C551F11AA460C003D9C40 /* PBXTextBookmark */ = 2C6C551F11AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C552011AA460C003D9C40 /* PBXTextBookmark */ = 2C6C552011AA460C003D9C40 /* PBXTextBookmark */;
+			2C6C556111AA4CB2003D9C40 /* PBXTextBookmark */ = 2C6C556111AA4CB2003D9C40 /* PBXTextBookmark */;
+			2C6C556211AA4CB2003D9C40 /* PBXTextBookmark */ = 2C6C556211AA4CB2003D9C40 /* PBXTextBookmark */;
+			2C6C556311AA4CB2003D9C40 /* PBXTextBookmark */ = 2C6C556311AA4CB2003D9C40 /* PBXTextBookmark */;
+			2C6C556511AA4CB2003D9C40 /* PBXTextBookmark */ = 2C6C556511AA4CB2003D9C40 /* PBXTextBookmark */;
+			2C6C556711AA4CB2003D9C40 /* PBXTextBookmark */ = 2C6C556711AA4CB2003D9C40 /* PBXTextBookmark */;
+			2C6C557611AA4CB2003D9C40 /* PBXTextBookmark */ = 2C6C557611AA4CB2003D9C40 /* PBXTextBookmark */;
+			2C6C559111AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559111AA4F4F003D9C40 /* PBXTextBookmark */;
+			2C6C559211AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559211AA4F4F003D9C40 /* PBXTextBookmark */;
+			2C6C559311AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559311AA4F4F003D9C40 /* PBXTextBookmark */;
+			2C6C559411AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559411AA4F4F003D9C40 /* PBXTextBookmark */;
+			2C6C559511AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559511AA4F4F003D9C40 /* PBXTextBookmark */;
+			2C6C559611AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559611AA4F4F003D9C40 /* PBXTextBookmark */;
+			2C6C559711AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559711AA4F4F003D9C40 /* PBXTextBookmark */;
+			2C6C559811AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559811AA4F4F003D9C40 /* PBXTextBookmark */;
+			2C6C559B11AA4F4F003D9C40 /* PBXTextBookmark */ = 2C6C559B11AA4F4F003D9C40 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2C6C54D111AA191D003D9C40 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933.75, 784}}";
+			sepNavSelRange = "{202, 17}";
+			sepNavVisRange = "{0, 362}";
+			sepNavWindowFrame = "{{41, 131}, {1230, 820}}";
+		};
+	};
+	2C6C54C811AA18FE003D9C40 /* CarParts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CarParts;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	2C6C54D111AA191D003D9C40 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	2C6C54D211AA191D003D9C40 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2C6C54D611AA1AFA003D9C40 /* Engine.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 777}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	2C6C54D711AA1AFA003D9C40 /* Engine.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 800}}";
+			sepNavSelRange = "{155, 0}";
+			sepNavVisRange = "{0, 251}";
+			sepNavWindowFrame = "{{67, 179}, {1230, 820}}";
+		};
+	};
+	2C6C54E711AA352B003D9C40 /* Tire.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 777}}";
+			sepNavSelRange = "{132, 0}";
+			sepNavVisRange = "{0, 207}";
+			sepNavWindowFrame = "{{15, 177}, {1230, 820}}";
+		};
+	};
+	2C6C54E811AA352B003D9C40 /* Tire.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 777}}";
+			sepNavSelRange = "{199, 0}";
+			sepNavVisRange = "{0, 249}";
+		};
+	};
+	2C6C54EC11AA35D0003D9C40 /* Car.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 800}}";
+			sepNavSelRange = "{247, 0}";
+			sepNavVisRange = "{0, 293}";
+		};
+	};
+	2C6C54ED11AA35D0003D9C40 /* Car.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063.37, 1664}}";
+			sepNavSelRange = "{871, 0}";
+			sepNavVisRange = "{559, 372}";
+		};
+	};
+	2C6C550211AA45F8003D9C40 /* Car.m:21 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2C6C54ED11AA35D0003D9C40 /* Car.m */;
+		functionName = "-init";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 21;
+		location = CarParts;
+		modificationTime = 296371727.8607889;
+		state = 1;
+	};
+	2C6C550611AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 17;
+		rLoc = 202;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	2C6C550711AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* CarParts_Prefix.pch */;
+		name = "CarParts_Prefix.pch: 6";
+		rLen = 66;
+		rLoc = 112;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	2C6C551011AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CarPartsAppDelegate.h */;
+		name = "CarPartsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	2C6C551111AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */;
+		name = "CarPartsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	2C6C551211AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* CarParts_Prefix.pch */;
+		name = "CarParts_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	2C6C551311AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 17;
+		rLoc = 202;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	2C6C551511AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54D611AA1AFA003D9C40 /* Engine.h */;
+		name = "Engine.h: 12";
+		rLen = 42;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 211;
+		vrLoc = 0;
+	};
+	2C6C551711AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54D711AA1AFA003D9C40 /* Engine.m */;
+		name = "Engine.m: 12";
+		rLen = 0;
+		rLoc = 245;
+		rType = 0;
+		vrLen = 184;
+		vrLoc = 0;
+	};
+	2C6C551D11AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54E711AA352B003D9C40 /* Tire.h */;
+		name = "Tire.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 0;
+	};
+	2C6C551E11AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54E811AA352B003D9C40 /* Tire.m */;
+		name = "Tire.m: 16";
+		rLen = 0;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 249;
+		vrLoc = 0;
+	};
+	2C6C551F11AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54EC11AA35D0003D9C40 /* Car.h */;
+		name = "Car.h: 19";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 0;
+	};
+	2C6C552011AA460C003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54ED11AA35D0003D9C40 /* Car.m */;
+		name = "Car.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 176;
+		vrLoc = 0;
+	};
+	2C6C556111AA4CB2003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54D611AA1AFA003D9C40 /* Engine.h */;
+		name = "Engine.h: 16";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 0;
+	};
+	2C6C556211AA4CB2003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54E711AA352B003D9C40 /* Tire.h */;
+		name = "Tire.h: 8";
+		rLen = 0;
+		rLoc = 132;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 0;
+	};
+	2C6C556311AA4CB2003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54E811AA352B003D9C40 /* Tire.m */;
+		name = "Tire.m: 14";
+		rLen = 0;
+		rLoc = 199;
+		rType = 0;
+		vrLen = 249;
+		vrLoc = 0;
+	};
+	2C6C556511AA4CB2003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54ED11AA35D0003D9C40 /* Car.m */;
+		name = "Car.m: 65";
+		rLen = 9;
+		rLoc = 911;
+		rType = 0;
+		vrLen = 499;
+		vrLoc = 69;
+	};
+	2C6C556711AA4CB2003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CarPartsAppDelegate.h */;
+		name = "CarPartsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	2C6C557611AA4CB2003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */;
+		name = "CarPartsAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 85;
+	};
+	2C6C559111AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */;
+		name = "CarPartsAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 180;
+	};
+	2C6C559211AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54D711AA1AFA003D9C40 /* Engine.m */;
+		name = "Engine.m: 11";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	2C6C559311AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54EC11AA35D0003D9C40 /* Car.h */;
+		name = "Car.h: 14";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 293;
+		vrLoc = 0;
+	};
+	2C6C559411AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54D711AA1AFA003D9C40 /* Engine.m */;
+		name = "Engine.m: 11";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	2C6C559511AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */;
+		name = "CarPartsAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 180;
+	};
+	2C6C559611AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54D711AA1AFA003D9C40 /* Engine.m */;
+		name = "Engine.m: 11";
+		rLen = 0;
+		rLoc = 155;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	2C6C559711AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54EC11AA35D0003D9C40 /* Car.h */;
+		name = "Car.h: 14";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 293;
+		vrLoc = 0;
+	};
+	2C6C559811AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54ED11AA35D0003D9C40 /* Car.m */;
+		name = "Car.m: 45";
+		rLen = 0;
+		rLoc = 871;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 559;
+	};
+	2C6C559B11AA4F4F003D9C40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */;
+		name = "CarPartsAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 85;
+	};
+	32CA4F630368D1EE00C91783 /* CarParts_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1279.41, 784}}";
+			sepNavSelRange = "{112, 66}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+}
