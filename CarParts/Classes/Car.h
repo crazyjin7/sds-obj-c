@@ -12,7 +12,7 @@
 
 @interface Car : NSObject {
 	Engine *engine;
-	Tire *tires[4];
+	NSArray *tireArray;
 }
 
 - (void)print;

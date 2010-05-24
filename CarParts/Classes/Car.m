@@ -17,23 +17,35 @@
 	if (self != nil){
 		//Initialize
 		engine = [Engine new];
-		tires[0] = [Tire new];
-		tires[1] = [Tire new];
-		tires[2] = [Tire new];
-		tires[3] = [Tire new];
+
+		Tire *tire1 = [[Tire new] autorelease]; // Retain Count = 1
+		Tire *tire2 = [[Tire new] autorelease];
+		Tire *tire3 = [[Tire new] autorelease];
+		Tire *tire4 = [[Tire new] autorelease];
+		
+		int tire1RetainCount = [tire1 retainCount];
+		NSLog(@"Tire1 Retain Count = %d", tire1RetainCount);
+		
+		tireArray = [[NSArray alloc] initWithObjects:
+					 tire1, tire2, tire3, tire4, nil]; //Retain Count = 2
+		
+		tire1RetainCount = [tire1 retainCount];
+		NSLog(@"Tire1 Retain Count = %d", tire1RetainCount);
 	}
 	return self;
+}
+
+- (void)dealloc
+{
+	[tireArray release];
 }
 
 -(void) print
 {
 	printf("Car print\n");
 	NSLog(@"%@", engine);
-	
-	NSLog(@"%@", tires[0]);
-	NSLog(@"%@", tires[1]);
-	NSLog(@"%@", tires[2]);
-	NSLog(@"%@", tires[3]);
+
+	NSLog (@"%@", tireArray);
 }
 
 @end
