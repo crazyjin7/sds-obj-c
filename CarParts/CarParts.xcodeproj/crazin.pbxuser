@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CarPartsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 441}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 330}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 442}}";
+			sepNavSelRange = "{147, 0}";
+			sepNavVisRange = "{0, 482}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CarParts */ = {
+		activeExec = 0;
+		executables = (
+			36912C5F11AAE4A9009B190A /* CarParts */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 36912C5F11AAE4A9009B190A /* CarParts */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CarParts */;
+		codeSenseManager = 36912C6A11AAE4C8009B190A /* Code sense */;
+		executables = (
+			36912C5F11AAE4A9009B190A /* CarParts */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					622,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					562,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					598,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					582,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296415588;
+			PBXWorkspaceStateSaveDate = 296415588;
+		};
+		perUserProjectItems = {
+			36912C8A11AAE9EF009B190A = 36912C8A11AAE9EF009B190A /* PBXTextBookmark */;
+			36912C8B11AAE9EF009B190A = 36912C8B11AAE9EF009B190A /* PBXTextBookmark */;
+			36912C8C11AAE9EF009B190A = 36912C8C11AAE9EF009B190A /* PBXTextBookmark */;
+			36912C8D11AAE9EF009B190A = 36912C8D11AAE9EF009B190A /* PlistBookmark */;
+			36912C8E11AAE9EF009B190A = 36912C8E11AAE9EF009B190A /* PBXTextBookmark */;
+			36912C9011AAE9EF009B190A = 36912C9011AAE9EF009B190A /* PBXTextBookmark */;
+			36912CBB11AAEEA1009B190A = 36912CBB11AAEEA1009B190A /* PBXTextBookmark */;
+			36912CBC11AAEEA1009B190A = 36912CBC11AAEEA1009B190A /* PBXTextBookmark */;
+			36912CC811AAF00F009B190A = 36912CC811AAF00F009B190A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 36912C6911AAE4C8009B190A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2C6C54D611AA1AFA003D9C40 /* Engine.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 441}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	2C6C54E711AA352B003D9C40 /* Tire.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 441}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 207}";
+		};
+	};
+	2C6C54E811AA352B003D9C40 /* Tire.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 441}}";
+			sepNavSelRange = "{26, 0}";
+			sepNavVisRange = "{0, 249}";
+		};
+	};
+	2C6C54EC11AA35D0003D9C40 /* Car.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {800, 441}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 289}";
+		};
+	};
+	2C6C54ED11AA35D0003D9C40 /* Car.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 507}}";
+			sepNavSelRange = "{384, 0}";
+			sepNavVisRange = "{286, 195}";
+		};
+	};
+	36912C5F11AAE4A9009B190A /* CarParts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CarParts;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	36912C6911AAE4C8009B190A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	36912C6A11AAE4C8009B190A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	36912C8A11AAE9EF009B190A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54D611AA1AFA003D9C40 /* Engine.h */;
+		name = "Engine.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 213;
+		vrLoc = 0;
+	};
+	36912C8B11AAE9EF009B190A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */;
+		name = "CarPartsAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 0;
+	};
+	36912C8C11AAE9EF009B190A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CarPartsAppDelegate.h */;
+		name = "CarPartsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	36912C8D11AAE9EF009B190A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CarParts-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/CarParts-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	36912C8E11AAE9EF009B190A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54E711AA352B003D9C40 /* Tire.h */;
+		name = "Tire.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 0;
+	};
+	36912C9011AAE9EF009B190A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54E811AA352B003D9C40 /* Tire.m */;
+		name = "Tire.m: 3";
+		rLen = 0;
+		rLoc = 26;
+		rType = 0;
+		vrLen = 249;
+		vrLoc = 0;
+	};
+	36912CBB11AAEEA1009B190A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54EC11AA35D0003D9C40 /* Car.h */;
+		name = "Car.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 289;
+		vrLoc = 0;
+	};
+	36912CBC11AAEEA1009B190A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54ED11AA35D0003D9C40 /* Car.m */;
+		name = "Car.m: 29";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 447;
+		vrLoc = 0;
+	};
+	36912CC811AAF00F009B190A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C6C54ED11AA35D0003D9C40 /* Car.m */;
+		name = "Car.m: 26";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 13;
+	};
+}
