@@ -35,11 +35,12 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					622,
+					598,
 					20,
 					48,
 					43,
 					43,
+					20,
 					20,
 				);
 				PBXFileTableDataSourceColumnsKey = (
@@ -50,6 +51,7 @@
 					PBXFileDataSource_Errors_ColumnID,
 					PBXFileDataSource_Warnings_ColumnID,
 					PBXFileDataSource_Target_ColumnID,
+					PBXFileDataSource_SCM_ColumnID,
 				);
 			};
 			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
@@ -114,8 +116,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 296415588;
-			PBXWorkspaceStateSaveDate = 296415588;
+			PBXPerProjectTemplateStateSaveDate = 296417515;
+			PBXWorkspaceStateSaveDate = 296417515;
 		};
 		perUserProjectItems = {
 			36912C8A11AAE9EF009B190A = 36912C8A11AAE9EF009B190A /* PBXTextBookmark */;
@@ -201,7 +203,7 @@
 		isSCMEnabled = 0;
 		scmConfiguration = {
 			repositoryNamesForRoots = {
-				"" = "";
+				"" = "SDS MultiCampus Objective-C";
 			};
 		};
 	};
