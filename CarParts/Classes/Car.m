@@ -26,7 +26,7 @@
 		int tire1RetainCount = [tire1 retainCount];
 		NSLog(@"Tire1 Retain Count = %d", tire1RetainCount);
 		
-		tireArray = [[NSArray alloc] initWithObjects:
+		tireArray = [[NSMutableArray alloc] initWithObjects:
 					 tire1, tire2, tire3, tire4, nil]; //Retain Count = 2
 		
 		tire1RetainCount = [tire1 retainCount];
@@ -48,4 +48,48 @@
 	NSLog (@"%@", tireArray);
 }
 
+- (int)mileage
+{
+	return mileage;
+}
+- (void)setMileage:(int)newMileage
+{
+	mileage = newMileage;
+}
+
+- (Engine *)engine
+{
+	return engine;
+}
+- (void)setEngine:(Engine *)newEngine
+{
+	Engine *oldEngine = engine;
+	if (oldEngine != newEngine){
+		engine = [newEngine retain];
+		if (oldEngine != nil) [oldEngine release];
+	}
+}
+
+- (NSMutableArray *)tireArray
+{
+	return tireArray;
+}
+
+- (void)setTireArray:(NSMutableArray *)newTireArray
+{
+	NSMutableArray *oldTireArray = tireArray;
+	if (oldTireArray != newTireArray){
+		tireArray = [newTireArray retain];
+		if (oldTireArray != nil) [oldTireArray release];
+	}
+}
+
+- (Tire *)tireAtIndex:(int)index
+{
+	return [tireArray objectAtIndex:index];
+}
+- (void)setTire:(Tire *)newTire atIndex:(int)index
+{
+	[tireArray replaceObjectAtIndex:index withObject:newTire];
+}
 @end

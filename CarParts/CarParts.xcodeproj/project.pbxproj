@@ -16,6 +16,8 @@
 		2C6C54D811AA1AFA003D9C40 /* Engine.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C6C54D711AA1AFA003D9C40 /* Engine.m */; };
 		2C6C54E911AA352B003D9C40 /* Tire.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C6C54E811AA352B003D9C40 /* Tire.m */; };
 		2C6C54EE11AA35D0003D9C40 /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C6C54ED11AA35D0003D9C40 /* Car.m */; };
+		369A971411AB09E200A4E983 /* AllWeatherRadial.m in Sources */ = {isa = PBXBuildFile; fileRef = 369A971111AB09E200A4E983 /* AllWeatherRadial.m */; };
+		369A971511AB09E200A4E983 /* Slant6.m in Sources */ = {isa = PBXBuildFile; fileRef = 369A971311AB09E200A4E983 /* Slant6.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,10 @@
 		2C6C54EC11AA35D0003D9C40 /* Car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
 		2C6C54ED11AA35D0003D9C40 /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* CarParts_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarParts_Prefix.pch; sourceTree = "<group>"; };
+		369A971011AB09E200A4E983 /* AllWeatherRadial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllWeatherRadial.h; sourceTree = "<group>"; };
+		369A971111AB09E200A4E983 /* AllWeatherRadial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllWeatherRadial.m; sourceTree = "<group>"; };
+		369A971211AB09E200A4E983 /* Slant6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Slant6.h; sourceTree = "<group>"; };
+		369A971311AB09E200A4E983 /* Slant6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Slant6.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* CarParts-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CarParts-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,6 +60,10 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				369A971011AB09E200A4E983 /* AllWeatherRadial.h */,
+				369A971111AB09E200A4E983 /* AllWeatherRadial.m */,
+				369A971211AB09E200A4E983 /* Slant6.h */,
+				369A971311AB09E200A4E983 /* Slant6.m */,
 				1D3623240D0F684500981E51 /* CarPartsAppDelegate.h */,
 				1D3623250D0F684500981E51 /* CarPartsAppDelegate.m */,
 				2C6C54D611AA1AFA003D9C40 /* Engine.h */,
@@ -176,6 +186,8 @@
 				2C6C54D811AA1AFA003D9C40 /* Engine.m in Sources */,
 				2C6C54E911AA352B003D9C40 /* Tire.m in Sources */,
 				2C6C54EE11AA35D0003D9C40 /* Car.m in Sources */,
+				369A971411AB09E200A4E983 /* AllWeatherRadial.m in Sources */,
+				369A971511AB09E200A4E983 /* Slant6.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

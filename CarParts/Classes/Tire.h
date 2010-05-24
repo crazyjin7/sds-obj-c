@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 
 
-@interface Tire : NSObject {
+@interface Tire : NSObject <NSCopying> {
 
 }
 
