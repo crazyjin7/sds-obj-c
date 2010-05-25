@@ -52,6 +52,7 @@
 - (void)dealloc
 {
 	[tireArray release];
+	[super dealloc];
 }
 
 -(void) print

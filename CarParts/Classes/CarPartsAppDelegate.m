@@ -56,14 +56,12 @@
 	[rearLeftTire release];
 	[rearRightTire release];
 	
-	//추천하는 구현 방식 아님 [
-	UIImage *radialImage = [UIImage imageNamed:@":AllWeahterRadial.png"];
-	
-	flTireImageView.image = radialImage;
-	frTireImageView.image = radialImage;
-	rlTireImageView.image = radialImage;
-	rrTireImageView.image = radialImage;
-	//추천하는 구현 방식 아님 ]
+	//추천하는 구현 방식으로 수정 [
+	flTireImageView.image = frontLeftTire.imageOfTire;
+	frTireImageView.image = frontRightTire.imageOfTire;
+	rlTireImageView.image = rearLeftTire.imageOfTire;
+	rrTireImageView.image = rearRightTire.imageOfTire;
+	//추천하는 구현 방식으로 수정 ]
 	
 }
 @end

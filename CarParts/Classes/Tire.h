@@ -12,11 +12,13 @@
 @interface Tire : NSObject {
 	float pressure;
 	float threadDepth;
+	
+	UIImage *imageOfTire;
 }
 
 - (id) initWithPressure:(float)newPressure;
 - (id) initWithThreadDepth:(float)newThreadDepth;
-- (id) initWIthPressure:(float)newPressure
+- (id) initWithPressure:(float)newPressure
 			threadDepth:(float)newThreadDepth;
 
 /*
@@ -29,5 +31,6 @@
 
 @property (assign) float pressure;
 @property (assign) float threadDepth;
+@property (readonly) UIImage *imageOfTire;
 
 @end

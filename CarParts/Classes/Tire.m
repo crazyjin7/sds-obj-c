@@ -10,7 +10,7 @@
 
 
 @implementation Tire
-@synthesize pressure, threadDepth;
+@synthesize pressure, threadDepth, imageOfTire;
 
 - (NSString *)description
 {
@@ -31,8 +31,15 @@
 	self = [super init];
 	if (self != nil) {
 		pressure = newPressure;
-		//self.pressure = newPressure;
 		threadDepth = 20.0;
+		if ([self class] == NSClassFromString(@"AllWeatherRadial"))
+		{
+			imageOfTire = [[UIImage imageNamed:@"AllWeahterRadial.png"] retain];
+		}
+		else if ([self class] == NSClassFromString(@"Tire"))
+		{
+			imageOfTire = [[UIImage imageNamed:@"Tire.png"] retain];
+		}
 	}
 	return self;
 }
@@ -42,6 +49,14 @@
 	if (self != nil) {
 		pressure = 34.0;
 		threadDepth = newThreadDepth;
+		if ([self class] == NSClassFromString(@"AllWeatherRadial"))
+		{
+			imageOfTire = [[UIImage imageNamed:@"AllWeahterRadial.png"] retain];
+		}
+		else if ([self class] == NSClassFromString(@"Tire"))
+		{
+			imageOfTire = [[UIImage imageNamed:@"Tire.png"] retain];
+		}
 	}
 	return self;
 }
@@ -52,8 +67,23 @@
 	if (self != nil) {
 		pressure = newPressure;
 		threadDepth = newThreadDepth;
+		if ([self class] == NSClassFromString(@"AllWeatherRadial"))
+		{
+			imageOfTire = [[UIImage imageNamed:@"AllWeahterRadial.png"] retain];
+		}
+		else if ([self class] == NSClassFromString(@"Tire"))
+		{
+			imageOfTire = [[UIImage imageNamed:@"Tire.png"] retain];
+		}
+		
 	}
 	return self;
+}
+
+- (void)dealloc
+{
+	[imageOfTire release];
+	[super dealloc];
 }
 
 /*
