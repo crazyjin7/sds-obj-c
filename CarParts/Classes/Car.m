@@ -10,7 +10,7 @@
 
 
 @implementation Car
-@synthesize mileage, engine, tireArray
+@synthesize mileage, engine, tireArray;
 
 - (id) init
 {

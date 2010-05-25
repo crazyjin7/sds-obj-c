@@ -14,7 +14,10 @@
 
 - (NSString *)description
 {
-	return @"I am a tire, I last a while";
+	NSString *desc = [NSString stringWithFormat:
+					  @"I am a tire, I last a while \n Pressure = %f, ThreadDepth = %f",
+					  self.pressure, self.threadDepth];
+	return desc;
 }
 
 - (id) init
@@ -42,13 +45,13 @@
 	}
 	return self;
 }
-- (id) initWIthPressure:(float)newPressure
+- (id) initWithPressure:(float)newPressure
 			threadDepth:(float)newThreadDepth
 {
 	self = [super init];
 	if (self != nil) {
 		pressure = newPressure;
-		threadDepth = threadDepth;
+		threadDepth = newThreadDepth;
 	}
 	return self;
 }
