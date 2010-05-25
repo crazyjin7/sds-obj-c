@@ -19,6 +19,9 @@
 
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
+	Car *car = [Car sharedCar];
+	[car print];
+	
 	[window makeKeyAndVisible];
 }
 
