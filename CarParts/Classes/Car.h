@@ -18,17 +18,11 @@
 
 - (void)print;
 
-- (int)mileage;
-- (void)setMileage:(int)newMileage;
-
-- (Engine *)engine;
-- (void)setEngine:(Engine *)newEngine;
-
-- (NSMutableArray *)tireArray;
-- (void)setTireArray:(NSMutableArray *)newTireArray;
-
 - (Tire *)tireAtIndex:(int)index;
 - (void)setTire:(Tire *)newTire atIndex:(int)index;
 
+@property int mileage;
+@property (retain) Engine *engine;
+@property (retain) NSMutableArray *tireArray;
 
 @end

@@ -10,6 +10,7 @@
 
 
 @implementation Car
+@synthesize mileage, engine, tireArray
 
 - (id) init
 {
@@ -46,42 +47,6 @@
 	NSLog(@"%@", engine);
 
 	NSLog (@"%@", tireArray);
-}
-
-- (int)mileage
-{
-	return mileage;
-}
-- (void)setMileage:(int)newMileage
-{
-	mileage = newMileage;
-}
-
-- (Engine *)engine
-{
-	return engine;
-}
-- (void)setEngine:(Engine *)newEngine
-{
-	Engine *oldEngine = engine;
-	if (oldEngine != newEngine){
-		engine = [newEngine retain];
-		if (oldEngine != nil) [oldEngine release];
-	}
-}
-
-- (NSMutableArray *)tireArray
-{
-	return tireArray;
-}
-
-- (void)setTireArray:(NSMutableArray *)newTireArray
-{
-	NSMutableArray *oldTireArray = tireArray;
-	if (oldTireArray != newTireArray){
-		tireArray = [newTireArray retain];
-		if (oldTireArray != nil) [oldTireArray release];
-	}
 }
 
 - (Tire *)tireAtIndex:(int)index
