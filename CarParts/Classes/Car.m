@@ -12,6 +12,19 @@
 @implementation Car
 @synthesize mileage, engine, tireArray;
 
+
++ (Car *)sharedCar
+{
+	static Car *sharedCar;
+	@synchronized(self) {
+		if (!sharedCar) {
+			sharedCar = [[Car alloc] init];
+		}
+		return sharedCar;
+	}
+	return nil;
+}
+
 - (id) init
 {
 	self = [super init];

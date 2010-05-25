@@ -16,6 +16,8 @@
 	int mileage;
 }
 
++ (Car *)sharedCar;
+
 - (void)print;
 
 - (Tire *)tireAtIndex:(int)index;

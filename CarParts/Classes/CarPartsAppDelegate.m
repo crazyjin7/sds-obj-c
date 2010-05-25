@@ -17,9 +17,7 @@
 
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
-	Car *car;
-	
-	car = [Car new];
+	Car *car = [Car sharedCar];
 	[car print];
 	
 	Slant6 *newEngine = [[Slant6 alloc] init];//0x1234 1
