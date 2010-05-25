@@ -18,6 +18,11 @@
 		2C6C54EE11AA35D0003D9C40 /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C6C54ED11AA35D0003D9C40 /* Car.m */; };
 		369A971411AB09E200A4E983 /* AllWeatherRadial.m in Sources */ = {isa = PBXBuildFile; fileRef = 369A971111AB09E200A4E983 /* AllWeatherRadial.m */; };
 		369A971511AB09E200A4E983 /* Slant6.m in Sources */ = {isa = PBXBuildFile; fileRef = 369A971311AB09E200A4E983 /* Slant6.m */; };
+		762B5F1C11AB954500E17EA0 /* AllWeahterRadial.png in Resources */ = {isa = PBXBuildFile; fileRef = 762B5F1711AB954500E17EA0 /* AllWeahterRadial.png */; };
+		762B5F1D11AB954500E17EA0 /* Engine.png in Resources */ = {isa = PBXBuildFile; fileRef = 762B5F1811AB954500E17EA0 /* Engine.png */; };
+		762B5F1E11AB954500E17EA0 /* Frame.png in Resources */ = {isa = PBXBuildFile; fileRef = 762B5F1911AB954500E17EA0 /* Frame.png */; };
+		762B5F1F11AB954500E17EA0 /* Slant6.png in Resources */ = {isa = PBXBuildFile; fileRef = 762B5F1A11AB954500E17EA0 /* Slant6.png */; };
+		762B5F2011AB954500E17EA0 /* Tire.png in Resources */ = {isa = PBXBuildFile; fileRef = 762B5F1B11AB954500E17EA0 /* Tire.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +45,11 @@
 		369A971111AB09E200A4E983 /* AllWeatherRadial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AllWeatherRadial.m; sourceTree = "<group>"; };
 		369A971211AB09E200A4E983 /* Slant6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Slant6.h; sourceTree = "<group>"; };
 		369A971311AB09E200A4E983 /* Slant6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Slant6.m; sourceTree = "<group>"; };
+		762B5F1711AB954500E17EA0 /* AllWeahterRadial.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AllWeahterRadial.png; sourceTree = "<group>"; };
+		762B5F1811AB954500E17EA0 /* Engine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Engine.png; sourceTree = "<group>"; };
+		762B5F1911AB954500E17EA0 /* Frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Frame.png; sourceTree = "<group>"; };
+		762B5F1A11AB954500E17EA0 /* Slant6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Slant6.png; sourceTree = "<group>"; };
+		762B5F1B11AB954500E17EA0 /* Tire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tire.png; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* CarParts-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CarParts-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -109,6 +119,11 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				762B5F1711AB954500E17EA0 /* AllWeahterRadial.png */,
+				762B5F1811AB954500E17EA0 /* Engine.png */,
+				762B5F1911AB954500E17EA0 /* Frame.png */,
+				762B5F1A11AB954500E17EA0 /* Slant6.png */,
+				762B5F1B11AB954500E17EA0 /* Tire.png */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* CarParts-Info.plist */,
 			);
@@ -171,6 +186,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				762B5F1C11AB954500E17EA0 /* AllWeahterRadial.png in Resources */,
+				762B5F1D11AB954500E17EA0 /* Engine.png in Resources */,
+				762B5F1E11AB954500E17EA0 /* Frame.png in Resources */,
+				762B5F1F11AB954500E17EA0 /* Slant6.png in Resources */,
+				762B5F2011AB954500E17EA0 /* Tire.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
