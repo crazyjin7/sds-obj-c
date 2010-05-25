@@ -1,321 +1,0 @@
-TCarParts
-v7
-r0
-t296413633.411545
-cCheck dependencies
-cProcessInfoPlistFile "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/Info.plist" CarParts-Info.plist
-cCompileXIB "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/MainWindow.xib"
-cProcessPCH /var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch.gch CarParts_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/main.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/CarPartsAppDelegate.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/CarPartsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Engine.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/../Engine.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Tire.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Tire.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Car.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
-c000000004B69B45C00000000000000EE
-t1265218652
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004B2B4CC3000000000026EE30
-t1261128899
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B2B4DC8000000000027E880
-t1261129160
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B2B4DAE0000000000001355
-t1261129134
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004B2B61620000000000000788
-t1261134178
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004B2B62B500000000016721E0
-t1261134517
-s23536096
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/CarParts_Prefix.pch
-c000000004BF9E17E00000000000000B9
-t1274667390
-s185
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/../Engine.h
-c000000004BF9FE2300000000000000D5
-t1274674723
-s213
-i<Foundation/Foundation.h>
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/../Engine.m
-c000000004BFA04B000000000000000FB
-t1274676400
-s251
-i"Engine.h"
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.h
-c000000004BFA158A0000000000000121
-t1274680714
-s289
-i<Foundation/Foundation.h>
-i"Engine.h"
-i"Tire.h"
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m
-c000000004BFA158A000000000000025A
-t1274680714
-s602
-i"Car.h"
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/CarPartsAppDelegate.h
-c000000004BF9E17E000000000000014A
-t1274667390
-s330
-i<UIKit/UIKit.h>
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/CarPartsAppDelegate.m
-c000000004BFA027D00000000000001E2
-t1274675837
-s482
-i"CarPartsAppDelegate.h"
-i"Car.h"
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Tire.h
-c000000004BF9FDAB00000000000000CF
-t1274674603
-s207
-i<Foundation/Foundation.h>
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Tire.m
-c000000004BF9FE2100000000000000F9
-t1274674721
-s249
-i"Tire.h"
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Engine.h
-c000000004BF9FE2300000000000000D5
-t1274674723
-s213
-i<Foundation/Foundation.h>
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/MainWindow.xib
-c000000004BF9E17E0000000000001F58
-t1274667390
-s8024
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Car.o
-t2
-s0
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/CarParts.LinkFileList
-c000000004BFAB240000000000000034E
-t1274720832
-s846
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/CarPartsAppDelegate.o
-t1274720833
-s17788
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Engine.o
-t1274720833
-s6008
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Tire.o
-t1274720833
-s5992
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/main.o
-t1274720833
-s6032
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app
-t2
-s0
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app.dSYM
-t2
-s0
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/CarParts
-t2
-s0
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/Info.plist
-t1274720832
-s597
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/MainWindow.nib
-t1274720832
-s1330
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/PkgInfo
-t1274720832
-s8
-
-N/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/main.m
-c000000004BF9E17E000000000000016A
-t1274667390
-s362
-i<UIKit/UIKit.h>
-
-N/var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch.gch
-t1274720833
-s13026768
-
-NCarParts-Info.plist
-c000000004BF9E17E000000000000038D
-t1274667390
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies296413632#296413632#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Car.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s296413633.364811
-e296413633.411407
-r0
-xCompileC
-xbuild/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Car.o
-x/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m: In function '-[Car dealloc]':
-o/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m:30: error: 'tireArray' undeclared (first use in this function)
-o/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m:30: error: (Each undeclared identifier is reported only once
-o/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m:30: error: for each function it appears in.)
-o/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m: At top level:
-o/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m:31: warning: method possibly missing a [super dealloc] call
-o{standard input}:117:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:117:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:114:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:114:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:105:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:105:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:102:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:102:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:93:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:93:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:90:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:90:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:81:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:81:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:78:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:78:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
-o{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
-o{standard input}:66:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000001$pb"
-o{standard input}:66:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
-o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
-o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
-o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASS_Car" minus "L00000000001$pb"
-o{standard input}:52:symbol: "L_OBJC_CLASS_Car" can't be undefined in a subtraction expression
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_Car
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
-o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
-o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1
-lSLF07#2@102"Compile /Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m296413633#296413633#0(3818"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m: In function '-[Car dealloc]':/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m:30: error: 'tireArray' undeclared (first use in this function)/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m:30: error: (Each undeclared identifier is reported only once/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m:30: error: for each function it appears in.)/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m: At top level:/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m:31: warning: method possibly missing a [super dealloc] call{standard input}:117:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:117:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:114:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"{standard input}:114:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:105:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:105:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:102:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"{standard input}:102:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:93:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:93:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:90:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"{standard input}:90:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:81:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:81:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:78:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000001$pb"{standard input}:78:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:66:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000001$pb"{standard input}:66:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASS_Car" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASS_Car" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_Car{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_13(4@51"'tireArray' undeclared (first use in this function)296413633#126#158#0(6@94"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m296373514#30#0#30#0#43"'*' undeclared (first use in this function)0(23@13"At top level:296413633#580#110#0(6@94"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m296373514#0#0#0#0#0"0(22@46"Method possibly missing a [super dealloc] call296413633#690#155#0(6@94"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m296373514#31#0#31#0#46"method possibly missing a [super dealloc] call0(0#0#94"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m4300911832#2369"    cd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-generated-files.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-own-target-headers.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-all-target-headers.hmap" -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-project-headers.hmap" "-F/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/include" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources/i386" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources" -include /var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch -c "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Car.m" -o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Car.o"1#
-
-CCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/CarPartsAppDelegate.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/CarPartsAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s296413633.282427
-e296413633.372690
-r1
-xCompileC
-xbuild/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/CarPartsAppDelegate.o
-x/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/CarPartsAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@118"Compile /Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/CarPartsAppDelegate.m296413633#296413633#0(0"0(0#0#110"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/CarPartsAppDelegate.m4300911832#2401"    cd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-generated-files.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-own-target-headers.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-all-target-headers.hmap" -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-project-headers.hmap" "-F/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/include" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources/i386" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources" -include /var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch -c "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/CarPartsAppDelegate.m" -o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/CarPartsAppDelegate.o"0#
-
-CCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Engine.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/../Engine.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s296413633.283877
-e296413633.364659
-r1
-xCompileC
-xbuild/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Engine.o
-x/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/../Engine.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@108"Compile /Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/../Engine.m296413633#296413633#0(0"0(0#0#100"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/../Engine.m4300911832#2378"    cd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-generated-files.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-own-target-headers.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-all-target-headers.hmap" -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-project-headers.hmap" "-F/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/include" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources/i386" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources" -include /var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch -c "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/../Engine.m" -o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Engine.o"0#
-
-CCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Tire.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Tire.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s296413633.285275
-e296413633.366663
-r1
-xCompileC
-xbuild/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Tire.o
-x/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Tire.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@103"Compile /Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Tire.m296413633#296413633#0(0"0(0#0#95"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Tire.m4300911832#2371"    cd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-generated-files.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-own-target-headers.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-all-target-headers.hmap" -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-project-headers.hmap" "-F/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/include" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources/i386" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources" -include /var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch -c "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/Classes/Tire.m" -o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/Tire.o"0#
-
-CCompileC build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/main.o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s296413633.280799
-e296413633.366423
-r1
-xCompileC
-xbuild/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/main.o
-x/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@95"Compile /Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/main.m296413633#296413633#0(0"0(0#0#87"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/main.m4300911832#2363"    cd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-generated-files.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-own-target-headers.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-all-target-headers.hmap" -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-project-headers.hmap" "-F/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/include" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources/i386" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources" -include /var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch -c "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/main.m" -o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/MainWindow.xib"
-s296413632.272183
-e296413632.731049
-r1
-xCompileXIB
-x/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/MainWindow.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib296413632#296413632#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#95"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/MainWindow.xib4300911832#615"    cd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/MainWindow.nib" "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/MainWindow.xib"0#
-
-CGenerateDSYMFile "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app.dSYM" "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/CarParts"
-r0
-
-CLd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/CarParts" normal i386
-r0
-
-CProcessInfoPlistFile "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/Info.plist" CarParts-Info.plist
-s296413632.263477
-e296413632.272038
-r1
-xProcessInfoPlistFile
-x/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/Info.plist
-xCarParts-Info.plist
-lSLF07#2@27"Process CarParts-Info.plist296413632#296413632#0(0"0(0#0#100"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/CarParts-Info.plist7008497410689562624#614"    cd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CarParts-Info.plist -genpkginfo "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app/Info.plist"0#
-
-CProcessPCH /var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch.gch CarParts_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s296413632.731254
-e296413633.280642
-r1
-xProcessPCH
-x/var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch.gch
-xCarParts_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@30"Precompile CarParts_Prefix.pch296413632#296413633#0(0"0(0#0#100"/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/CarParts_Prefix.pch4300911832#2210"    cd "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-generated-files.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-own-target-headers.hmap" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-all-target-headers.hmap" -iquote "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/CarParts-project-headers.hmap" "-F/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/include" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources/i386" "-I/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/CarParts.build/Debug-iphonesimulator/CarParts.build/DerivedSources" -c "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/CarParts_Prefix.pch" -o /var/folders/nK/nKbW4whcGgShlPYb0Xhlgk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarParts_Prefix-cchykwjfwbjojnesnnujeeihfcvy/CarParts_Prefix.pch.gch0#
-
-CTouch "/Users/crazin/Documents/SDS MultiCampus/1. Objective-C/CarParts_BasicDescription/build/Debug-iphonesimulator/CarParts.app"
-r0
-
