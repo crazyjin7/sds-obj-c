@@ -19,10 +19,15 @@
 - (id) initWIthPressure:(float)newPressure
 			threadDepth:(float)newThreadDepth;
 
+/*
 - (float) pressure;
 - (void) setPressure:(float)newPressure;
 
 - (float) threadDepth;
 - (void) setThreadDepth:(float)newThreadDepth;
+*/
+
+@property (assign) float pressure;
+@property (assign) float threadDepth;
 
 @end

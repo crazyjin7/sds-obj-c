@@ -10,6 +10,7 @@
 
 
 @implementation Tire
+@synthesize pressure, threadDepth;
 
 - (NSString *)description
 {
@@ -52,6 +53,7 @@
 	return self;
 }
 
+/*
 - (float) pressure
 {
 	return pressure;
@@ -69,5 +71,6 @@
 {
 	threadDepth = newThreadDepth;
 }
+*/
 
 @end
