@@ -10,14 +10,18 @@
 
 @interface CarPartsAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
-	UIImageView *fromImageView;
+	UIImageView *engineImageView;
 	UIImageView *flTireImageView;
 	UIImageView *frTireImageView;
 	UIImageView *rlTireImageView;
 	UIImageView *rrTireImageView;
 }
 
+- (IBAction)changeEngine:(id)sender;
+- (IBAction)changeTires:(id)sender;
+
 @property (nonatomic, retain) IBOutlet UIWindow *window;
+@property (nonatomic, retain) IBOutlet UIImageView *engineImageView;
 @property (nonatomic, retain) IBOutlet UIImageView *flTireImageView;
 @property (nonatomic, retain) IBOutlet UIImageView *frTireImageView;
 @property (nonatomic, retain) IBOutlet UIImageView *rlTireImageView;
